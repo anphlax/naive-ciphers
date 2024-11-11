@@ -1,3 +1,5 @@
+pub mod binary_encode;
+
 use std::collections::HashMap;
 use num_traits::cast::ToPrimitive;
 use std::str::FromStr;
